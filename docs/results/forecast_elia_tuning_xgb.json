@@ -1,0 +1,25 @@
+{
+  "params": {
+    "target": "level",
+    "n_estimators": 200,
+    "learning_rate": 0.04362601745589287,
+    "max_depth": 9,
+    "min_child_weight": 12.875334822420212,
+    "subsample": 0.5018114693850745,
+    "colsample_bytree": 0.330813750985703,
+    "reg_lambda": 0.1658662624803606,
+    "reg_alpha": 0.00549199956271351
+  },
+  "cv_mae": 226.38216502007558,
+  "default_cv_mae": 237.59869393104614,
+  "trials": 30,
+  "completed": 30,
+  "validation_months": [
+    "2024-07-01",
+    "2024-10-01",
+    "2025-01-01",
+    "2025-04-01",
+    "2025-06-01"
+  ],
+  "features": 31
+}

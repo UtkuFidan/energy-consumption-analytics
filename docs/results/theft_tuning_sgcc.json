@@ -1,0 +1,71 @@
+{
+  "outer_fold_pr_auc": [
+    0.45828708697139425,
+    0.4720107296862521,
+    0.44184928853363725,
+    0.42868942188695425,
+    0.41087693427333816
+  ],
+  "chosen_params": [
+    {
+      "n_estimators": 500,
+      "learning_rate": 0.025547977743874944,
+      "max_depth": 7,
+      "min_child_weight": 3.3914940113307015,
+      "subsample": 0.8813851608998824,
+      "colsample_bytree": 0.6598442074586197,
+      "gamma": 2.9529598345024213,
+      "reg_lambda": 2.1037328342970008,
+      "pos_weight_exp": 0.4529212693220785,
+      "inner_ap": 0.4204135043962018
+    },
+    {
+      "n_estimators": 600,
+      "learning_rate": 0.02184283889296452,
+      "max_depth": 7,
+      "min_child_weight": 2.6168903166854167,
+      "subsample": 0.736541365623348,
+      "colsample_bytree": 0.6914736119989162,
+      "gamma": 0.501569887482096,
+      "reg_lambda": 0.14252477548075962,
+      "pos_weight_exp": 0.44502743058517175,
+      "inner_ap": 0.42011477181442297
+    },
+    {
+      "n_estimators": 500,
+      "learning_rate": 0.035754510927792825,
+      "max_depth": 7,
+      "min_child_weight": 10.502359351874555,
+      "subsample": 0.8907251100875673,
+      "colsample_bytree": 0.5805880670507522,
+      "gamma": 0.09544906276615775,
+      "reg_lambda": 0.35478154052292027,
+      "pos_weight_exp": 0.6846643679857315,
+      "inner_ap": 0.4190601512445485
+    },
+    {
+      "n_estimators": 400,
+      "learning_rate": 0.05835871508198424,
+      "max_depth": 7,
+      "min_child_weight": 1.235828420698021,
+      "subsample": 0.8518132188424133,
+      "colsample_bytree": 0.651584699761076,
+      "gamma": 0.7627196213078049,
+      "reg_lambda": 0.04185498408391002,
+      "pos_weight_exp": 0.027594366977516743,
+      "inner_ap": 0.4350140189958818
+    },
+    {
+      "n_estimators": 600,
+      "learning_rate": 0.03721756791080876,
+      "max_depth": 6,
+      "min_child_weight": 3.7990465604481853,
+      "subsample": 0.8329020381296853,
+      "colsample_bytree": 0.7243389407680441,
+      "gamma": 0.0016594614392775628,
+      "reg_lambda": 2.497090773328038,
+      "pos_weight_exp": 0.7181221764563699,
+      "inner_ap": 0.43996647060874666
+    }
+  ]
+}
